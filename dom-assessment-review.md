@@ -1,7 +1,7 @@
 # Assessment Review
 ### Document Object Model
 
-Welcome to your JS 2nd Assessment Review. This will include some things from 
+Welcome to your DOM Assessment Review. This will include some things from 
 the previous assessments, as well as Array and Object manipulation. Below are
  some practice questions for you to get started. 
  
