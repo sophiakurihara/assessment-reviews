@@ -5,15 +5,14 @@ you're finding a way to keep your programming skills sharp while you're away
 from Codeup.
 
 Not sure what to work on? The 12 Days of Code will give you a daily challenge
- covering different topics we've learned so far! If you start this on 
- Christmas Day, you'll finish the review the day before you get back to class. 
+ covering different topics we've learned (up to MySQL Basic Statements)! If you start this on December 23rd, you'll finish the review the day before you get back to class. 
  
  It's up to you which projects and repos these exercises will live in. After 
  all, it's just for practice.
  
  Happy Coding :) 
  
- ### December 25th
+ ### December 23rd
  
  - Today, build a simple Christmas themed HTML page using your preferred 
  framework for layout and styling. Or, use custom CSS if that's your thing.
@@ -22,7 +21,7 @@ Not sure what to work on? The 12 Days of Code will give you a daily challenge
     - Make a list of your favorite Christmas songs
     - Include a Christmas photo in there too!
  
- ### December 26th
+ ### December 24th
  
  - We're going to build on our Christmas page a little bit.
     
@@ -31,7 +30,7 @@ Not sure what to work on? The 12 Days of Code will give you a daily challenge
     - Create an input box underneath your song list. 
     - Add a submit button for this input box.
  
- ### December 27th
+ ### December 25th
  
  - Adding a bit more interactivity.
   
@@ -42,7 +41,7 @@ Not sure what to work on? The 12 Days of Code will give you a daily challenge
     - **Bonus**: add the Konami Code for a secret feature! Maybe an image? A 
     video? A song? It's up to you.
  
- ### December 28th
+ ### December 26th
  - Let's start on a little bit of Java review! You'll be working on the 
  Adlister shortly after the break so it's important for us to have a solid 
  foundation.
@@ -55,21 +54,20 @@ Not sure what to work on? The 12 Days of Code will give you a daily challenge
     - Store the response in a String variable.
     - **Bonus**: Continue to ask if the user enters an empty String
      
- ### December 29th
+ ### December 27th
  
  - Santa's got a lot of work to do before next year...
  
     - Create a new Java class called Reindeer. This should be in the same 
     package as your Santa class.
     - This should have a protected String property of 'name.'
-    - Add a constructor that sets this name property when a new Reindeer is 
-    created. Display a message that tells you the name of the new Reindeer 
+    - Add a constructor that sets this name property when a new Reindeer is created. Display a message that tells you the name of the new Reindeer 
     that has been created.
     - Test your new class in the main method of the Santa class by creating 
     instances of Santa's reindeer.
  
 
- ### December 30th
+ ### December 28th
  - Santa has 9 reindeer. 10 if you count Olive, the other reindeer...
  
     - Going back into your Santa class, create a public static Array property 
@@ -79,7 +77,7 @@ Not sure what to work on? The 12 Days of Code will give you a daily challenge
     - go back into your main method and give each Reindeer instance a 
     position in the Array you just created. 
     
- ### December 31st
+ ### December 29th
  
  - What if we want to hire more Reindeer in the future and add them to our 
  Array?
@@ -90,7 +88,7 @@ Not sure what to work on? The 12 Days of Code will give you a daily challenge
          actually need to create a copy with a different lenght.
          - Need a hint? Go back to our ArraysExercises from Java II. 
  
- ### January 1st
+ ### December 30th
  
  - Remember when Santa asked us what we wanted for Christmas?
  
@@ -105,7 +103,7 @@ Not sure what to work on? The 12 Days of Code will give you a daily challenge
     and the item they requested.
  
  
- ### January 2nd
+ ### December 31st
  
  - I feel like Santa's job would be a lot easier if he had a SQL database to 
  work with.
@@ -115,7 +113,7 @@ Not sure what to work on? The 12 Days of Code will give you a daily challenge
      
     - Create a new database called 'christmas_db'
  
- ### January 3rd
+ ### January 1st
  
  - You better watch out, you better not cry...
  
@@ -129,14 +127,14 @@ Not sure what to work on? The 12 Days of Code will give you a daily challenge
         
     - **Bonus**: Create this table by running a sql migration file.
  
- ### January 4th
+ ### January 2nd
  
  - There are a lot of people we need to keep track of and deliver to by next 
  Christmas.
  
     - Create a seeder script for your people table.  
  
- ### January 5th
+ ### January 3rd
  
  - However, you only get a gift from Santa if you've been nice all year. 
  
